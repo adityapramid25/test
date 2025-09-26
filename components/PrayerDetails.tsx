@@ -27,7 +27,7 @@ const PrayerDetails: React.FC<PrayerDetailsProps> = ({ prayer, onClose }) => {
       
       <h2 className="text-3xl font-bold text-green-300 mb-4 pr-8">{prayer.displayName}</h2>
       <div className="overflow-y-auto pr-2 text-left text-sm text-gray-300 space-y-4">
-        <p>{prayer.description}</p>
+        <p className="mt-3">{prayer.description}</p>
         
         <div className="border-t border-gray-700 pt-3">
           <h4 className="font-semibold text-green-300 mb-1 text-base">Keutamaan</h4>
