@@ -55,7 +55,7 @@ export const PRAYER_TIMES_DATA: PrayerInfo[] = [
     key: 'Imsak',
     displayName: 'Imsak',
     icon: <ImsakIcon />,
-    description: '<br /> Waktu penanda dimulainya periode puasa, biasanya sekitar 10 menit sebelum waktu Subuh.',
+    description: ' Waktu penanda dimulainya periode puasa, biasanya sekitar 10 menit sebelum waktu Subuh.',
     details: {
       significance: 'Imsak adalah pengingat untuk berhati-hati dan bersiap mengakhiri sahur, memastikan puasa dimulai tepat waktu saat fajar tiba. Ini adalah bentuk kehati-hatian dalam beribadah.',
       hadith: {
